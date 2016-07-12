@@ -7,7 +7,7 @@ Windows Install Procedure
    http://www.vagrantup.com 
 2) Install Virtualbox  
    http://www.virtualbox.org/wiki/Downloads 
-3) Install putty  
+3) Install putty (if you have git installed, and installed the openssh client that is bundled with it, this may not be needed) 
    http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html 
 4) Github vagrant files  
    https://github.com/davidkiser/dev-automation
