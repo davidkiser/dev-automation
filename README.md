@@ -3,6 +3,8 @@
 
 Windows Install Procedure
 
+Note: On Thinkpads, you may need to go into the bios and enable Virtualization support before using virtualbox
+
 1) Install Vagrant 
    http://www.vagrantup.com 
 2) Install Virtualbox  
@@ -13,7 +15,6 @@ Windows Install Procedure
    https://github.com/davidkiser/dev-automation
 5) Reboot  
 
-On Thinkpads, you may need to go into the bios and enable Virtualization support
 
 Mac/OSX  
 
