@@ -24,5 +24,4 @@ Same procedures as above, but you can skip putty, the bios junk, and probably re
 LAB EXERCISE
 
 Using what you have learned,  create a simple ubuntu based vagrant box that sets its private networking IP to 192.168.10.10 
-and launches a shell provisioner that installs apache using apt-get,  starts it up,  and  uses wget/curl to copy a simple index.html  
-page from another site, or echo to create a simple html page at the documents root for apache ( hint: /var/www/html/index.html ).
+and launches a shell provisioner that installs apache using apt-get,  starts it up,  and  uses wget/curl to copy a simple index.html page from another site, or echo to create a simple html page at the documents root for apache ( hint: /var/www/html/index.html ).
